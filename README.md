@@ -1,64 +1,18 @@
-# svelte app
+# Svelte Tutorial
+Cuma Tutorial Svelte dari Channel Youtube Gue : 
+[Herlangga Sefani](https://www.youtube.com/channel/UCDExN7aAOChWJfOT3I8aAWw)
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
+# Youtube PlayList 
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+### Part 0
 
-```bash
-npx degit sveltejs/template-webpack svelte-app
-cd svelte-app
-```
+Because Array start from Zero.
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+[![PART 0](https://img.youtube.com/vi/CQI6RFA7DGY/0.jpg)](https://www.youtube.com/watch?v=CQI6RFA7DGY)
 
+### Part 1 
 
-## Get started
+See on Branch part - 1
 
-Install the dependencies...
+[![PART 1](https://img.youtube.com/vi/BNmWIoYAnQU/0.jpg)](https://www.youtube.com/watch?v=BNmWIoYAnQU)
 
-```bash
-cd svelte-app
-npm install
-```
-
-...then start webpack:
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
-
-
-## Deploying to the web
-
-### With [now](https://zeit.co/now)
-
-Install `now` if you haven't already:
-
-```bash
-npm install -g now
-```
-
-Then, from within your project folder:
-
-```bash
-now
-```
-
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public
-```
