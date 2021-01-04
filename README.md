@@ -4,6 +4,8 @@ Cuma Tutorial Svelte dari Channel Youtube Gue :
 
 # Youtube PlayList 
 
+[Youtube PlayList Tutorial Svelte Bahasa Indonesia](https://www.youtube.com/playlist?list=PLsOzyq0Y0vMt757V5pLgPPn-EXADQRzlb)
+
 ## Part 0 - Intro
 
 Because Array start from Zero.
