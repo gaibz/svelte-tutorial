@@ -2,6 +2,8 @@
 Cuma Tutorial Svelte dari Channel Youtube Gue : 
 [Herlangga Sefani](https://www.youtube.com/channel/UCDExN7aAOChWJfOT3I8aAWw)
 
+Studi Kasus : Membuat Password Manager Sederhana
+
 # Youtube PlayList 
 
 [Youtube PlayList Tutorial Svelte Bahasa Indonesia](https://www.youtube.com/playlist?list=PLsOzyq0Y0vMt757V5pLgPPn-EXADQRzlb)
@@ -18,3 +20,9 @@ cek Branch : part-1
 
 [![PART 1](https://img.youtube.com/vi/BNmWIoYAnQU/0.jpg)](https://www.youtube.com/watch?v=BNmWIoYAnQU)
 
+
+## Part 2 - Svelte Basic & Implementasi
+
+Mulai membahas tentang studi kasus password manager
+
+[![PART 2](https://img.youtube.com/vi/udIvk02G4HU/0.jpg)](https://www.youtube.com/watch?v=udIvk02G4HU)
