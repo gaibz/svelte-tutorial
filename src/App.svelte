@@ -1,8 +1,30 @@
 <script>
-    let title = "Facebook";
-    let username = "siapaajalah";
-    let password = "sangatRahasiaAtuh123456";
-    let html_data = "<h1>Ini html data</h1>";
+    let accounts = [
+        {
+            title: "",
+            username: "",
+            password: "",
+        },
+    ];
+
+    function add(title, username, password) {
+        accounts = [
+            ...accounts,
+            {
+                title,
+                username,
+                password,
+            },
+        ];
+    }
+
+    function update(index, title, username, password) {
+        accounts[index] = {
+            title,
+            username,
+            password,
+        };
+    }
 </script>
 
 <style>
@@ -12,10 +34,15 @@
 </style>
 
 <div>
-    <h1>Judul : {title}</h1>
-    <h3>Username : {username}</h3>
-    <h3>Password : {password}</h3>
-    <p>
-        {@html html_data}
-    </p>
+    {#each accounts as account}
+        <h1>Judul : {account.title}</h1>
+        <h3>Username : {account.username}</h3>
+        <h3>Password : {account.password}</h3>
+    {/each}
+
+    <button
+        on:click={() => add('Twitter', 'twituser', '12233445566666')}>Add</button>
+
+    <button
+        on:click={() => update(0, 'Facebook', 'faceuser', '9182738273')}>Update</button>
 </div>

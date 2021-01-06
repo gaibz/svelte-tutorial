@@ -26,3 +26,8 @@ cek Branch : part-1
 Mulai membahas tentang studi kasus password manager
 
 [![PART 2](https://img.youtube.com/vi/udIvk02G4HU/0.jpg)](https://www.youtube.com/watch?v=udIvk02G4HU)
+
+
+## Part 3 - Reactivity & Implementasi
+
+[![PART 3](https://img.youtube.com/vi/JthGORX7acM/0.jpg)](https://www.youtube.com/watch?v=JthGORX7acM)
